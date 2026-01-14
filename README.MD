@@ -1,117 +1,61 @@
-📊 Excel Business Analytics Dashboard Project
-📌 Project Overview
+# Excel Business Analytics Dashboard Project
 
-This project showcases end-to-end data analysis using Microsoft Excel by combining multiple business domains into a single Excel workbook.
-The file demonstrates practical analytics skills using Pivot Tables, dashboards, IF–ELSE logic, and conditional formatting to extract insights from raw data.
+## Project Overview
+This project demonstrates end-to-end business data analysis using Microsoft Excel.
+Multiple business domains are analyzed within a single Excel workbook using pivot tables,
+dashboards, IF–ELSE logic, and conditional formatting.
 
-All analysis sheets are maintained in one Excel file for easy navigation and review.
+## Sheets Included
 
-📂 Sheets Included in the Workbook
-🔹 1. Sales Analysis
+### 1. Sales Analysis
+- Monthly and yearly sales performance
+- Region-wise and product-wise comparison
+- Revenue trends and KPIs
 
-Monthly and yearly sales performance
+### 2. HR Attrition Analysis
+- Attrition rate calculation
+- Department-wise analysis
+- IF–ELSE logic for attrition classification
 
-Region-wise and product-wise sales comparison
+### 3. Inventory Analysis
+- Stock level tracking
+- Low-stock and overstock identification
+- Category-wise inventory insights
 
-Revenue trends and growth patterns
+### 4. Expense Tracking
+- Department-wise expense analysis
+- Budget vs actual comparison
+- Automated expense status using IF–ELSE
 
-KPI indicators using conditional formatting
+### 5. Customer Orders Analysis
+- Order trends and customer segmentation
+- Top customers and products
+- Order status analysis
 
-🔹 2. HR Attrition Analysis
+## Tools & Techniques
+- Microsoft Excel
+- Pivot Tables & Charts
+- Dashboards
+- IF–ELSE formulas
+- Conditional Formatting
+- Data Cleaning
 
-Employee attrition rate calculation
+## File Structure
+Excel-Business-Analytics
+|
+|-- Business_Analytics_Dashboard.xlsx
+    |-- Sales Analysis
+    |-- HR Attrition
+    |-- Inventory
+    |-- Expense Tracking
+    |-- Customer Orders
 
-Department-wise and role-wise attrition
+## How to Use
+1. Download the Excel file
+2. Open in Microsoft Excel (Desktop version recommended)
+3. Navigate through each sheet to explore insights
 
-Experience and age group analysis
-
-IF–ELSE logic to classify attrition risk
-
-🔹 3. Inventory Analysis
-
-Stock availability and usage tracking
-
-Identification of low-stock and overstock items
-
-Category-wise inventory insights
-
-Conditional formatting for stock alerts
-
-🔹 4. Expense Tracking
-
-Department-wise expense breakdown
-
-Monthly expense trends
-
-Budget vs actual comparison
-
-Automated expense status using IF–ELSE conditions
-
-🔹 5. Customer Orders Analysis
-
-Order volume and customer trends
-
-Top customers and products
-
-Order status classification
-
-Sales contribution by customer segments
-
-🛠️ Tools & Techniques Used
-
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-Interactive Dashboards
-
-IF–ELSE formulas
-
-Conditional Formatting
-
-Data Cleaning & Structuring
-
-KPI & Trend Analysis
-
-📈 Key Highlights
-
-Single Excel file with multiple business dashboards
-
-Real-world business use cases
-
-Recruiter-friendly and easy-to-navigate structure
-
-Strong focus on data-driven decision making
-
-📁 File Structure
-📂 Excel-Business-Analytics
- └── Business_Analytics_Dashboard.xlsx
-     ├── Sales Analysis
-     ├── HR Attrition
-     ├── Inventory
-     ├── Expense Tracking
-     └── Customer Orders
-
-🚀 How to Use
-
-Download the Excel file from the repository
-
-Open in Microsoft Excel (Desktop recommended)
-
-Navigate through sheets to explore dashboards and insights
-
-Interact with pivot filters and slicers (if enabled)
-
-📌 Skills Demonstrated
-
-Business Data Analysis
-
-Excel Dashboarding
-
-Analytical Thinking
-
-Data Visualization
-
-Problem Solving
-
-⭐ If you find this project useful, feel free to star the repository!
+## Skills Demonstrated
+- Data Analysis
+- Excel Dashboarding
+- Business Insights
